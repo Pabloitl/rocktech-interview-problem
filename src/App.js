@@ -35,7 +35,7 @@ function App() {
     const valid = (input) => {
         const regex = /^(\d+\s*,\s*)*\d+$/m
 
-        return regex.test(input.replace('\n','').trim())
+        return regex.test(input.replace(/\n/g,' ').trim())
     }
 
     const handleChange = e => setInput(e.target.value)
