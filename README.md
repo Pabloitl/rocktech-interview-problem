@@ -1,4 +1,4 @@
-## Problem a resolver
+## Problema a resolver
 
 Dado un arreglo o lista de números enteros desordenado,encontrar la solución a los siguientes problemas:
 
@@ -7,6 +7,6 @@ Dado un arreglo o lista de números enteros desordenado,encontrar la solución a
 - Eliminar números pares del arreglo original
 - Ordenar el arreglo con los valores de mayor a menor
 
-## Technology used
+## Tecnología usada
 
 `React`
